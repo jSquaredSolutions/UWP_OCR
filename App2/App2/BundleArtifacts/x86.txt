@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Jsquared\Desktop\UWP_OCR\App2\App2\bin\x86\Debug\App2_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\Jsquared\Desktop\UWP_OCR\App2\App2\AppPackages\App2_1.0.0.0_Debug_Test\App2_1.0.0.0_x86_Debug.appxsym

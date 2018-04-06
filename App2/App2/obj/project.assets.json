@@ -25576,11 +25576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\jsquared\\source\\repos\\App2\\App2\\App2.csproj",
+      "projectUniqueName": "C:\\Users\\Jsquared\\Desktop\\UWP_OCR\\App2\\App2\\App2.csproj",
       "projectName": "App2",
-      "projectPath": "c:\\users\\jsquared\\source\\repos\\App2\\App2\\App2.csproj",
+      "projectPath": "C:\\Users\\Jsquared\\Desktop\\UWP_OCR\\App2\\App2\\App2.csproj",
       "packagesPath": "C:\\Users\\Jsquared\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\jsquared\\source\\repos\\App2\\App2\\obj\\",
+      "outputPath": "C:\\Users\\Jsquared\\Desktop\\UWP_OCR\\App2\\App2\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
